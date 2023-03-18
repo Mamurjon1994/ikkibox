@@ -1,0 +1,27 @@
+.box{
+   
+width:200px ;
+height: 50px;
+ background-color: chocolate;
+ border: solid 1px ;
+ position: relative;
+ left: 30%;
+ top: 50%;
+ transform: translate(50%);
+ 
+}
+.box1{
+   
+    width:200px ;
+    height: 50px;
+     background-color: chocolate;
+     border: solid 1px ;
+    transform: rotate(45deg);
+    position: relative;
+ left: 50%;
+ top: 55%;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+}
